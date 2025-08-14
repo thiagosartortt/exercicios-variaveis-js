@@ -1,4 +1,3 @@
-// nome - string / idade - int / peso / altura
 function exemploVariaveisString() {
 let nome = "Thiago";
 let idade = 34;
