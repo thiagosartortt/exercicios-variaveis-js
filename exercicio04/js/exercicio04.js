@@ -8,9 +8,3 @@ function DadosDoPaciente() {
     alert("Nome: " + nome + "\nIMC: " + imc);
 }
 
-function DadosDeAltura() {
-let altura = parseFloat (prompt("Digite a sua altura").replace (",","."));
-
-alert("Altura: ");
-
-}
